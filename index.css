@@ -1,0 +1,44 @@
+#box {
+  position: relative;
+  top: 50px;
+  
+  margin: auto;
+  width: 500px;
+  height: 500px;
+
+}
+
+.grid {
+   margin: 10px auto;
+  /* width: 500px;*/
+}
+
+.square {
+  float: left;
+  background-color: white;
+  
+}
+
+body {
+  text-align: center;
+}
+
+html {
+ background-color: #7583CD;
+ font-family: Arial;
+}
+
+button {
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px solid #999999;
+  height: 30px;
+  width: 76px;
+  background-color: white;
+}
+
+h2 {
+  font-family: Comic Sans MS;
+  font-size: 300%;
+  color: #317112;
+}
