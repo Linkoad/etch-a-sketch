@@ -72,8 +72,4 @@ $(document).ready(function() {
       });
   });
 
-  $('#size-button').click(function(){
-   newbutton();
-   $('.square')
-  })	
 });
